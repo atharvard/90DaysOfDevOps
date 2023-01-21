@@ -6,3 +6,22 @@ formal defination   :   "DevOps is the union of people, process, and products to
 
 The main goal of DEVOPS is to shorten cycle time. Start with the release pipeline. How long does it take to deploy a change of one line of code or configuration.
 
+Agile and Lean is how teams iterate, with short development cycles and fast feedback. Agile focuses on culture and is agnostic to which tools are used.
+
+DevOps is how engineering organizations collaborate using cross-functional teams. DevOps starts with culture and drives toward tooling.
+
+SRE (System Reliability Engineering) is how engineering organizations automate, entrusting highly scaled operations to people with a software engineering mindset. SRE starts with tooling and drives toward culture.
+
+Autoamation:
+ DevOps relies on toolchains to automate large parts of the end-to-end software development and deployment process.
+ 
+Continuous Integration:
+Forcing developers to integrate their work with other developers’ work frequently—at least daily
+
+Continuous Testing:
+
+Continuous Delivery:
+
+Continuous Monitoring:
+
+https://newrelic.com/devops/what-is-devops#toc-chapter-2-where-did-devops-come-from-
